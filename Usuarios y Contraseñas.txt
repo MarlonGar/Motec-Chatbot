@@ -1,0 +1,14 @@
+Usuarios y Contraseñas:
+
+Marlon       Admin2249@
+Melanie      Secre2249@
+Giancarlo    Gianca2249@
+Rodolfo      Chofo2249@
+
+Correos y contraseñas locales creados en Mercury:
+marlonadmin@localhost.com	1234
+melaniesecre@localhost.com 	1234
+giancarloprofe@localhost.com	4321
+rodolfoprofe@localhost.com	4321
+
+

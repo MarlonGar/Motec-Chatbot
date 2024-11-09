@@ -1,0 +1,19 @@
+Consulta estudiantes
+
+SELECT * FROM Estudiantes;
+
+Consulta de pagos
+
+SELECT * FROM Pagos WHERE estudiante_id = 1;
+
+Consulta de Profesores
+
+SELECT * FROM Usuarios WHERE rol = 'Profesor';
+
+Consulta estado de pago de estudiantes
+
+UPDATE Estudiantes SET estado_de_pago = 'Al dia' WHERE id = 2;
+
+Eliminar un usuario
+
+DELETE FROM Usuarios WHERE id = 5;
